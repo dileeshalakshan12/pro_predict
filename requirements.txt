@@ -5,4 +5,5 @@ scipy
 numpy
 uvicorn
 scikit-learn
+plotly
 streamlit
